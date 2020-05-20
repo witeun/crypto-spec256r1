@@ -1,0 +1,1 @@
+g++ -shared -fPIC codeplus.cpp -o libcodeplus.so -lcryptopp
